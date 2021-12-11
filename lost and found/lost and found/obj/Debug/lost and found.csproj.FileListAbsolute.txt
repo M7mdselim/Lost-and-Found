@@ -1,0 +1,11 @@
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\bin\Debug\lost and found.exe.config
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\bin\Debug\lost and found.exe
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\bin\Debug\lost and found.pdb
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost and found.csprojAssemblyReference.cache
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost_and_found.Form1.resources
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost_and_found.Form2.resources
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost_and_found.Properties.Resources.resources
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost and found.csproj.GenerateResource.cache
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost and found.csproj.CoreCompileInputs.cache
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost and found.exe
+F:\Sha 2nd Year\3rd Year\First Term\System design\lost and found\lost and found\obj\Debug\lost and found.pdb
